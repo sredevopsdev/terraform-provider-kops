@@ -1,8 +1,8 @@
 package schemas
 
 import (
-	. "github.com/eddycharly/terraform-provider-kops/pkg/schemas"
-	metaschemas "github.com/eddycharly/terraform-provider-kops/pkg/schemas/meta"
+	. "github.com/sredevopsdev/terraform-provider-kops/pkg/schemas"
+	metaschemas "github.com/sredevopsdev/terraform-provider-kops/pkg/schemas/meta"
 	"github.com/hashicorp/terraform-plugin-sdk/v2/helper/schema"
 	core "k8s.io/api/core/v1"
 	meta "k8s.io/apimachinery/pkg/apis/meta/v1"

@@ -1,10 +1,10 @@
 package schemas
 
 import (
-	"github.com/eddycharly/terraform-provider-kops/pkg/api/resources"
-	"github.com/eddycharly/terraform-provider-kops/pkg/api/utils"
-	. "github.com/eddycharly/terraform-provider-kops/pkg/schemas"
-	utilsschemas "github.com/eddycharly/terraform-provider-kops/pkg/schemas/utils"
+	"github.com/sredevopsdev/terraform-provider-kops/pkg/api/resources"
+	"github.com/sredevopsdev/terraform-provider-kops/pkg/api/utils"
+	. "github.com/sredevopsdev/terraform-provider-kops/pkg/schemas"
+	utilsschemas "github.com/sredevopsdev/terraform-provider-kops/pkg/schemas/utils"
 	"github.com/hashicorp/terraform-plugin-sdk/v2/helper/schema"
 )
 

@@ -4,10 +4,10 @@ import (
 	"reflect"
 	"time"
 
-	"github.com/eddycharly/terraform-provider-kops/pkg/api/datasources"
-	"github.com/eddycharly/terraform-provider-kops/pkg/api/kube"
-	. "github.com/eddycharly/terraform-provider-kops/pkg/schemas"
-	kubeschemas "github.com/eddycharly/terraform-provider-kops/pkg/schemas/kube"
+	"github.com/sredevopsdev/terraform-provider-kops/pkg/api/datasources"
+	"github.com/sredevopsdev/terraform-provider-kops/pkg/api/kube"
+	. "github.com/sredevopsdev/terraform-provider-kops/pkg/schemas"
+	kubeschemas "github.com/sredevopsdev/terraform-provider-kops/pkg/schemas/kube"
 	"github.com/hashicorp/terraform-plugin-sdk/v2/helper/schema"
 )
 

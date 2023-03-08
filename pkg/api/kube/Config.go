@@ -3,7 +3,7 @@ package kube
 import (
 	"time"
 
-	"github.com/eddycharly/terraform-provider-kops/pkg/api/utils"
+	"github.com/sredevopsdev/terraform-provider-kops/pkg/api/utils"
 	"k8s.io/kops/pkg/client/simple"
 )
 

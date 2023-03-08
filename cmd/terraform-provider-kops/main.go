@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/eddycharly/terraform-provider-kops/pkg/provider"
+	"github.com/sredevopsdev/terraform-provider-kops/pkg/provider"
 	"github.com/hashicorp/terraform-plugin-sdk/v2/plugin"
 )
 

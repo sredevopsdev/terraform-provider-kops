@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/eddycharly/terraform-provider-kops/pkg/validation"
+	"github.com/sredevopsdev/terraform-provider-kops/pkg/validation"
 	v1 "k8s.io/api/core/v1"
 	metav1 "k8s.io/apimachinery/pkg/apis/meta/v1"
 	"k8s.io/client-go/kubernetes"

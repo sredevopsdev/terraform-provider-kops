@@ -3,7 +3,7 @@ package schemas
 import (
 	"testing"
 
-	"github.com/eddycharly/terraform-provider-kops/pkg/api/kube"
+	"github.com/sredevopsdev/terraform-provider-kops/pkg/api/kube"
 	"github.com/google/go-cmp/cmp"
 )
 

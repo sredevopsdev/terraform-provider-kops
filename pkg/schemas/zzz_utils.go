@@ -4,7 +4,7 @@ import (
 	"context"
 	"time"
 
-	"github.com/eddycharly/terraform-provider-kops/pkg/version"
+	"github.com/sredevopsdev/terraform-provider-kops/pkg/version"
 	"github.com/hashicorp/terraform-plugin-sdk/v2/helper/schema"
 	"k8s.io/apimachinery/pkg/api/resource"
 	metav1 "k8s.io/apimachinery/pkg/apis/meta/v1"

@@ -6,7 +6,7 @@ import (
 	"log"
 	"time"
 
-	"github.com/eddycharly/terraform-provider-kops/pkg/validation"
+	"github.com/sredevopsdev/terraform-provider-kops/pkg/validation"
 	metav1 "k8s.io/apimachinery/pkg/apis/meta/v1"
 	"k8s.io/client-go/kubernetes"
 	"k8s.io/kops/pkg/client/simple"

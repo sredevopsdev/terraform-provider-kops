@@ -3,8 +3,8 @@ package datasources
 import (
 	"context"
 
-	"github.com/eddycharly/terraform-provider-kops/pkg/config"
-	datasourcesschemas "github.com/eddycharly/terraform-provider-kops/pkg/schemas/datasources"
+	"github.com/sredevopsdev/terraform-provider-kops/pkg/config"
+	datasourcesschemas "github.com/sredevopsdev/terraform-provider-kops/pkg/schemas/datasources"
 	"github.com/hashicorp/terraform-plugin-sdk/v2/diag"
 	"github.com/hashicorp/terraform-plugin-sdk/v2/helper/schema"
 )

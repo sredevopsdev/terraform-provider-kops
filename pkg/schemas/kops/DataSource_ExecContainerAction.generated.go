@@ -1,7 +1,7 @@
 package schemas
 
 import (
-	. "github.com/eddycharly/terraform-provider-kops/pkg/schemas"
+	. "github.com/sredevopsdev/terraform-provider-kops/pkg/schemas"
 	"github.com/hashicorp/terraform-plugin-sdk/v2/helper/schema"
 	"k8s.io/kops/pkg/apis/kops"
 )

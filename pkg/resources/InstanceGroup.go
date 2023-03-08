@@ -5,11 +5,11 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/eddycharly/terraform-provider-kops/pkg/api/resources"
-	"github.com/eddycharly/terraform-provider-kops/pkg/api/utils"
-	"github.com/eddycharly/terraform-provider-kops/pkg/config"
-	"github.com/eddycharly/terraform-provider-kops/pkg/schemas"
-	resourcesschema "github.com/eddycharly/terraform-provider-kops/pkg/schemas/resources"
+	"github.com/sredevopsdev/terraform-provider-kops/pkg/api/resources"
+	"github.com/sredevopsdev/terraform-provider-kops/pkg/api/utils"
+	"github.com/sredevopsdev/terraform-provider-kops/pkg/config"
+	"github.com/sredevopsdev/terraform-provider-kops/pkg/schemas"
+	resourcesschema "github.com/sredevopsdev/terraform-provider-kops/pkg/schemas/resources"
 	"github.com/hashicorp/terraform-plugin-sdk/v2/diag"
 	"github.com/hashicorp/terraform-plugin-sdk/v2/helper/schema"
 )

@@ -3,7 +3,7 @@ package schemas
 import (
 	"testing"
 
-	"github.com/eddycharly/terraform-provider-kops/pkg/api/utils"
+	"github.com/sredevopsdev/terraform-provider-kops/pkg/api/utils"
 	"github.com/google/go-cmp/cmp"
 )
 

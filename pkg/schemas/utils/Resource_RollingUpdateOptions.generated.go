@@ -3,8 +3,8 @@ package schemas
 import (
 	"reflect"
 
-	"github.com/eddycharly/terraform-provider-kops/pkg/api/utils"
-	. "github.com/eddycharly/terraform-provider-kops/pkg/schemas"
+	"github.com/sredevopsdev/terraform-provider-kops/pkg/api/utils"
+	. "github.com/sredevopsdev/terraform-provider-kops/pkg/schemas"
 	meta "k8s.io/apimachinery/pkg/apis/meta/v1"
 )
 

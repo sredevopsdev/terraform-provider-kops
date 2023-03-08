@@ -1,10 +1,10 @@
 package provider
 
 import (
-	"github.com/eddycharly/terraform-provider-kops/pkg/config"
-	"github.com/eddycharly/terraform-provider-kops/pkg/datasources"
-	"github.com/eddycharly/terraform-provider-kops/pkg/resources"
-	configschemas "github.com/eddycharly/terraform-provider-kops/pkg/schemas/config"
+	"github.com/sredevopsdev/terraform-provider-kops/pkg/config"
+	"github.com/sredevopsdev/terraform-provider-kops/pkg/datasources"
+	"github.com/sredevopsdev/terraform-provider-kops/pkg/resources"
+	configschemas "github.com/sredevopsdev/terraform-provider-kops/pkg/schemas/config"
 	"github.com/hashicorp/terraform-plugin-sdk/v2/helper/schema"
 )
 
