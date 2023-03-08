@@ -1,0 +1,1 @@
+LOG: 2023/03/08 02:04:04.654264 github.com/kubefirst/kubefirst/main.go:64: unable to read config file, error is: While parsing config: yaml: line 3: mapping values are not allowed in this context
